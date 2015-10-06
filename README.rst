@@ -47,6 +47,7 @@ Some of the projects that we know of that are using scikit-bio are:
 - `Qiita <http://qiita.microbio.me>`__
 - `ghost-tree <https://github.com/JTFouquier/ghost-tree>`__
 - `Platypus-Conquistador <https://github.com/biocore/Platypus-Conquistador>`__
+- `PyEnsembl <https://github.com/hammerlab/pyensembl>`__
 
 If you're using scikit-bio in your own projects, feel free to issue a pull request to add them to this list.
 
